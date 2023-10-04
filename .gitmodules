@@ -1,0 +1,3 @@
+[submodule "flutter_holamundo"]
+	path = flutter_holamundo
+	url = https://github.com/Edu-Estevez-Lemes/flutter_holamundo.git
